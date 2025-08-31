@@ -1,0 +1,75 @@
+{
+    "nav": {
+      "home": "Home",
+      "government": "Gov Procurement",
+      "biomed": "Biomedical Services",
+      "biomed_consumables": "Consumables",
+      "biomed_scanning": "Scanning",
+      "academy": "Academy",
+      "about": "About",
+      "intro": "Company",
+      "customers": "Customers",
+      "contact": "Contact"
+    },
+    "hero": {
+      "slides": [
+        {
+          "h1": "One-stop Research Services",
+          "h2": "30 Years<br>in Research Sector",
+          "desc": "Gov procurement · Consumables · Bio scanning"
+        },
+        {
+          "h1": "Largest FBS Importer in South China",
+          "h2": "Serving<br>200+ Laboratories",
+          "desc": "Toward a leading global supplier of biomedical consumables"
+        },
+        {
+          "h1": "Trusted by 500+ Clients",
+          "h2": "Procurements<br>Exceeding ¥35B",
+          "desc": "Building a public procurement cloud platform"
+        }
+      ]
+    },
+    "about": {
+      "title": "Our Advantages",
+      "desc": "Founded between 1995–2005, our core team focuses on public procurement outsourcing… (English summary of your paragraph).",
+      "ctaText": "Learn more",
+      "counters": [
+        { "value": "30",  "label": "Years in public procurement" },
+        { "value": "350", "label": "Total volume (¥B)" },
+        { "value": "500", "label": "Customers served" },
+        { "value": "100", "label": "Research institutes" },
+        { "value": "100", "label": "Universities" },
+        { "value": "100", "label": "Hospitals" },
+        { "value": "50",  "label": "Specialists" },
+        { "value": "95",  "label": "Shenzhen university coverage (%)" }
+      ]
+    },
+    "services": {
+      "title": "Core Services",
+      "subtitle": "Accelerate research, safeguard innovation",
+      "items": [
+        {
+          "title": "Gov Procurement",
+          "list": ["One-stop scientific purchasing","Import/export tax consulting","Duty reduction & tax rebate","Import/export agency","HK & global logistics","Procurement & supply chain"]
+        },
+        {
+          "title": "Consumables Supply",
+          "list": ["Fetal bovine serum","Other animal sera","Serum alternatives","BSA","Serum-free media","Lipogro® cholesterol concentrate"]
+        },
+        {
+          "title": "Scanning & Analysis",
+          "list": ["Small-animal bone scan","Tooth & periodontal scan","Soft tissue scan","Tumor scan","Disease mechanism analysis","Biomaterials scan"]
+        },
+        {
+          "title": "Procurement Training",
+          "list": ["Policy analysis","Practical skills","Product operations","Case studies","Q&A on hard issues","Mock exams"]
+        }
+      ]
+    },
+    "customers": {
+      "title": "Customers",
+      "subtitle": "Integrity first, client-centric, excellence, win-win"
+    }
+  }
+  
