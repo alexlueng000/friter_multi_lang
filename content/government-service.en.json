@@ -1,0 +1,35 @@
+{
+    "banner": {
+      "title": "Government Procurement Services",
+      "desc": "Our procurement center brings multidisciplinary teams with deep experience across research, education, healthcare, water treatment, broadcasting, telecom, internet, IC, electronics, and advanced equipment manufacturing. We partner closely with leading institutions and have exceeded RMB 35B in procurement volume by 2024.",
+      "ctaText": "Learn more"
+    },
+    "sections": [
+      {
+        "title": "One-stop<br>Research Procurement",
+        "desc": "End-to-end solutions from needs analysis to delivery, streamlining processes while ensuring quality and compliance for reagents, consumables, equipment, software, and consulting.",
+        "ctaText": "Contact us"
+      },
+      {
+        "title": "Import/Export<br>Tax Consulting",
+        "desc": "Tax planning & optimization, cross-border structures, duty/VAT guidance, and export tax rebate advisory tailored for R&D organizations.",
+        "ctaText": "Contact us"
+      },
+      {
+        "title": "Duty Reduction &<br>Tax Rebate Agency",
+        "desc": "Eligibility assessment, documentation, categorization for complex instruments, submission and follow-up to reduce tax costs and improve cash flow.",
+        "ctaText": "Contact us"
+      },
+      {
+        "title": "Import/Export<br>Agency Services",
+        "desc": "From sourcing and order management to cross-border logistics, customs, warehousing and distribution—focus on R&D while we handle operations.",
+        "ctaText": "Contact us"
+      },
+      {
+        "title": "Product Sourcing &<br>Supply Chain",
+        "desc": "Supplier selection, negotiation, PO & inventory control, and logistics to deliver the right product with the right quality on time.",
+        "ctaText": "Contact us"
+      }
+    ]
+  }
+  

@@ -1,0 +1,30 @@
+{
+    "banner": {
+      "title": "Company Introduction"
+    },
+    "about": {
+      "title": "FronTech (FrauEn Technology)",
+      "desc1": "Our core team dates back to 1995–2005, originally providing public procurement outsourcing across multiple government-invested sectors (municipal engineering, broadcasting, public safety/fire, hydropower stations, roads and pipelines, hotels, networks, industrial goods). Since 2005 we have focused on introducing products and technologies for the research sector, serving institutes, universities, hospitals and enterprise R&D centers with one-stop services: advanced lab equipment & consumables import, technical and bidding consulting, lab design & build, international contract execution, duty reduction, compliance evaluation, and incubation & follow-along investments. We are now a benchmark supply-chain platform for the GBA research ecosystem.",
+      "desc2": "By 2019 we had served 100+ universities, hospitals and research institutes. By end of 2024, our coverage among Shenzhen universities exceeded 95%."
+    },
+    "timeline": {
+      "title": "Milestones",
+      "subtitle": "An innovation-driven journey",
+      "items": [
+        { "year": "Pre-2005", "text": "Public procurement outsourcing for foreign trade" },
+        { "year": "2006",     "text": "Initial build-out of a new public procurement supply-chain platform" },
+        { "year": "2011",     "text": "R&D-focused government supply-chain platform; focusing on universities, institutes, and hospitals" },
+        { "year": "2015",     "text": "Platform maturity in the research sector" },
+        { "year": "2016",     "text": "Launched service-oriented, co-piloting style investments" },
+        { "year": "2017",     "text": "Developed a full-process e-procurement solution; incubated multiple SMB bidding agencies" },
+        { "year": "2018",     "text": "First approved FBS importer under Shenzhen Customs; by 2025 served 200+ labs, becoming the largest serum importer in the GBA" },
+        { "year": "2018",     "text": "Consulting business launched; 3-in-1 service model (policy research, industrial planning, tailored programs); involved in 20+ key GBA projects" },
+        { "year": "2018",     "text": "Scanco MicroCT Shenzhen Scanning Service Center established" },
+        { "year": "2019",     "text": "Worked with 100+ universities, hospitals, and institutes; recognized benchmark in R&D supply chains" },
+        { "year": "2021",     "text": "Growth stage as a Tech Services & Investment platform covering scanning, consumables, new-drug tech introduction, and stem-cell translation" },
+        { "year": "2024",     "text": "Awarded AEO Advanced Certification (May 2024)" },
+        { "year": "2024",     "text": "Shenzhen university coverage exceeded 95%; expanded across core GBA cities (Guangzhou, Foshan, Jiangmen)" }
+      ]
+    }
+  }
+  

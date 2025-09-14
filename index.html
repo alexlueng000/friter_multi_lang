@@ -141,10 +141,16 @@
 							  </ul>
 							</li>
 						  
-							<!-- 语言切换（新增） -->
-							<li class="nav-item" style="padding-left:40px">
-							  <a href="#" onclick="window.__setLang('zh')">中文</a> /
-							  <a href="#" onclick="window.__setLang('en')">EN</a>
+							<!-- 语言切换（下拉菜单） -->
+							<li class="nav-item dropdown" style="padding-left:40px">
+								<a class="nav-link dropdown-toggle" href="#" id="langDropdown" role="button"
+								data-bs-toggle="dropdown" aria-expanded="false">
+								语言
+								</a>
+								<ul class="dropdown-menu" aria-labelledby="langDropdown">
+								<li><a class="dropdown-item" href="#" onclick="window.__setLang('zh')">中文</a></li>
+								<li><a class="dropdown-item" href="#" onclick="window.__setLang('en')">English</a></li>
+								</ul>
 							</li>
 						  </ul>	
 							
